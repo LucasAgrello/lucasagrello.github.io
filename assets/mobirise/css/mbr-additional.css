@@ -588,8 +588,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-#scrollToTop a {
-  border-radius: 100px;
+.scrollToTop_wraper {
+  display: none;
 }
 #scrollToTop a i:before {
   content: '';
@@ -1398,7 +1398,7 @@ body {
   }
 }
 .cid-rjuKRgrCT6 {
-  background-image: url("../../../assets/images/whatsapp-image-2019-03-01-at-4.03.57-pm-1280x720.jpg");
+  background-image: url("../../../assets/images/free-fire-2-1280x720.jpg");
 }
 .cid-rjuKRgrCT6 .form-control,
 .cid-rjuKRgrCT6 .form-control:focus {
@@ -1492,48 +1492,48 @@ body {
   padding-bottom: 15px;
   background-color: #011634;
 }
-.cid-rjCjzcWFyQ {
+.cid-rjIMGfSGW3 {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rjCjzcWFyQ .socicon-bg-facebook {
+.cid-rjIMGfSGW3 .socicon-bg-facebook {
   background: #3e5b98;
   color: #ffffff;
 }
-.cid-rjCjzcWFyQ .socicon-bg-twitter {
+.cid-rjIMGfSGW3 .socicon-bg-twitter {
   background: #4da7de;
   color: #ffffff;
 }
-.cid-rjCjzcWFyQ .socicon-bg-googleplus {
+.cid-rjIMGfSGW3 .socicon-bg-googleplus {
   background: #dd4b39;
   color: #ffffff;
 }
-.cid-rjCjzcWFyQ .socicon-bg-vkontakte {
+.cid-rjIMGfSGW3 .socicon-bg-vkontakte {
   background: #5a7fa6;
   color: #ffffff;
 }
-.cid-rjCjzcWFyQ .socicon-bg-odnoklassniki {
+.cid-rjIMGfSGW3 .socicon-bg-odnoklassniki {
   background: #f48420;
   color: #ffffff;
 }
-.cid-rjCjzcWFyQ .socicon-bg-pinterest {
+.cid-rjIMGfSGW3 .socicon-bg-pinterest {
   background: #c92619;
   color: #ffffff;
 }
-.cid-rjCjzcWFyQ .socicon-bg-mail {
+.cid-rjIMGfSGW3 .socicon-bg-mail {
   background: #134785;
   color: #ffffff;
 }
-.cid-rjCjzcWFyQ .btn-social {
+.cid-rjIMGfSGW3 .btn-social {
   border: none !important;
 }
-.cid-rjCjzcWFyQ [class^="socicon-"]:before,
-.cid-rjCjzcWFyQ [class*=" socicon-"]:before {
+.cid-rjIMGfSGW3 [class^="socicon-"]:before,
+.cid-rjIMGfSGW3 [class*=" socicon-"]:before {
   line-height: 44px;
 }
 @media (max-width: 767px) {
-  .cid-rjCjzcWFyQ .btn {
+  .cid-rjIMGfSGW3 .btn {
     font-size: 20px !important;
   }
 }
@@ -2588,4 +2588,9 @@ body {
   .cid-rjCkH5wfUw .btn {
     font-size: 20px !important;
   }
+}
+.cid-rjINcstce4 {
+  padding-top: 60px;
+  padding-bottom: 45px;
+  background-color: #011634;
 }
